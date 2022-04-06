@@ -1,0 +1,20 @@
+{
+  "name": "gutils",
+  "version": "1.0.0",
+  "description": "utilities from multiples uses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielogregorio/gutils-js.git"
+  },
+  "keywords": ["brl", "money"],
+  "author": "gabriel gregorio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielogregorio/gutils-js/issues"
+  },
+  "homepage": "https://github.com/gabrielogregorio/gutils-js#readme"
+}
